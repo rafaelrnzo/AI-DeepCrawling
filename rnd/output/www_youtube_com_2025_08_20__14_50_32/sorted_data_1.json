@@ -1,0 +1,68 @@
+{
+    "listings": [
+        {
+            "name": "Bulbasaur",
+            "number of likes": "63.00"
+        },
+        {
+            "name": "Ivysaur",
+            "number of likes": "87.00"
+        },
+        {
+            "name": "Venusaur",
+            "number of likes": "105.00"
+        },
+        {
+            "name": "Charmander",
+            "number of likes": "48.00"
+        },
+        {
+            "name": "Charmeleon",
+            "number of likes": "165.00"
+        },
+        {
+            "name": "Charizard",
+            "number of likes": "156.00"
+        },
+        {
+            "name": "Squirtle",
+            "number of likes": "130.00"
+        },
+        {
+            "name": "Wartortle",
+            "number of likes": "123.00"
+        },
+        {
+            "name": "Blastoise",
+            "number of likes": "76.00"
+        },
+        {
+            "name": "Caterpie",
+            "number of likes": "73.00"
+        },
+        {
+            "name": "Metapod",
+            "number of likes": "148.00"
+        },
+        {
+            "name": "Butterfree",
+            "number of likes": "162.00"
+        },
+        {
+            "name": "Weedle",
+            "number of likes": "25.00"
+        },
+        {
+            "name": "Kakuna",
+            "number of likes": "148.00"
+        },
+        {
+            "name": "Beedrill",
+            "number of likes": "168.00"
+        },
+        {
+            "name": "Pidgey",
+            "number of likes": "159.00"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "listings": [
+        {
+            "name": "Upstatement",
+            "title": "Engineer"
+        },
+        {
+            "name": "Scout",
+            "title": "Studio Developer"
+        },
+        {
+            "name": "Apple Music",
+            "title": "UI Engineer Co-op"
+        },
+        {
+            "name": "Scout",
+            "title": "Studio Developer"
+        },
+        {
+            "name": "Starry",
+            "title": "Software Engineer Co-op"
+        },
+        {
+            "name": "Northeastern University",
+            "title": "HCI Teaching Assistant"
+        },
+        {
+            "name": "NU Women in Tech",
+            "title": "President & Web Chair"
+        },
+        {
+            "name": "MullenLowe U.S.",
+            "title": "Creative Technologist Co-op"
+        },
+        {
+            "name": "Northeastern University",
+            "title": "HCI Research Assistant"
+        }
+    ]
+}

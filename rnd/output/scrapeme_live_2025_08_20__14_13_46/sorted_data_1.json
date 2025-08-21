@@ -1,0 +1,84 @@
+{
+    "listings": [
+        {
+            "price": "\u00a363.00",
+            "product name": "Bulbasaur",
+            "stock": ""
+        },
+        {
+            "price": "\u00a387.00",
+            "product name": "Ivysaur",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3105.00",
+            "product name": "Venusaur",
+            "stock": ""
+        },
+        {
+            "price": "\u00a348.00",
+            "product name": "Charmander",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3165.00",
+            "product name": "Charmeleon",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3156.00",
+            "product name": "Charizard",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3130.00",
+            "product name": "Squirtle",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3123.00",
+            "product name": "Wartortle",
+            "stock": ""
+        },
+        {
+            "price": "\u00a376.00",
+            "product name": "Blastoise",
+            "stock": ""
+        },
+        {
+            "price": "\u00a373.00",
+            "product name": "Caterpie",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3148.00",
+            "product name": "Metapod",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3162.00",
+            "product name": "Butterfree",
+            "stock": ""
+        },
+        {
+            "price": "\u00a325.00",
+            "product name": "Weedle",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3148.00",
+            "product name": "Kakuna",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3168.00",
+            "product name": "Beedrill",
+            "stock": ""
+        },
+        {
+            "price": "\u00a3159.00",
+            "product name": "Pidgey",
+            "stock": ""
+        }
+    ]
+}

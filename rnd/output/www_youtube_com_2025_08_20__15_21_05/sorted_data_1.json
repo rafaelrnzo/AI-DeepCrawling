@@ -1,0 +1,124 @@
+{
+    "listings": [
+        {
+            "comment": "Access the code from here: https://www.automation-campus.com/downloads/ScrapeMaster-1-4/ScrapeMaster-4",
+            "name": "@redamarzouk",
+            "number of comment": "5 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "You are a wizard! Thanks for this",
+            "name": "@EduardoCortez81",
+            "number of comment": "9 months ago",
+            "number of like": "2"
+        },
+        {
+            "comment": "I was looking for this video! Thank you!",
+            "name": "@YuukiAutomates",
+            "number of comment": "5 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "Thank you this is exactly what I have been wanting!eyes-pink-heart-shape",
+            "name": "@eliteandhonor",
+            "number of comment": "9 months ago",
+            "number of like": "2"
+        },
+        {
+            "comment": "What a great video! You are awesome! Great demonstration, thank you. This is the first video I have seen and I have already decided to subscribe!",
+            "name": "@MinaEllis-XXAI",
+            "number of comment": "9 months ago",
+            "number of like": "3"
+        },
+        {
+            "comment": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0648\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u062c\u0632\u0627\u0643\u0645 \u0627\u0644\u0644\u0647 \u062e\u064a\u0631\u0627 \u0648\u0622\u0644\u0644\u0647 \u0627\u0631\u062d\u0645 \u0627\u0644\u0648\u0627\u0644\u062f\u064a\u0646 \u0639\u0644\u0649 \u0647\u0627\u062f \u0627\u0644\u0645\u062c\u0647\u0648\u0627\u062f\u062a \u062f\u064a\u0627\u0644\u0643 \u0628\u0627\u0634 \u062a\u0641\u064a\u062f\u0646\u0627\u2764",
+            "name": "@oussineabar7970",
+            "number of comment": "8 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "love the work , but really wish the pagination would go beyond 1 page and cycle through the \"Next\" buttons to add to the CSV & the ability to save/load presets so I could come back every week and scrape the same data. but overall great job.",
+            "name": "@UberLinny",
+            "number of comment": "9 months ago",
+            "number of like": "3"
+        },
+        {
+            "comment": "Here for the final version!",
+            "name": "@hannespi2886",
+            "number of comment": "9 months ago",
+            "number of like": "2"
+        },
+        {
+            "comment": "love this project",
+            "name": "@kavinaychand858",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "The Docker Container's name was \"Stoic Beaver\". You win",
+            "name": "@streamstudiosllc",
+            "number of comment": "9 months ago",
+            "number of like": "4"
+        },
+        {
+            "comment": "Thanks, Reda! I absolutely loved how you broke down the API key management in this update! I learned how crucial it is for security in automation. Do you have any tips on best practices for managing API keys in larger projects?",
+            "name": "@YuukiAutomates",
+            "number of comment": "5 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "This is great but what would take it over the top is allow me to go to each individual Amazon item open it and scrape some specific items then go back to the list and go to the next item. Obviously not for Amazon but just as an example",
+            "name": "@explosiveenterprises1479",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "I remember when Curl was the tool of choice for this sort of thing! Now it seems it's JinaAi, FireCrawl, ScrapegraphAi, Crawl4AI ?! I'd like to have an LLM model search a website (tavily?) and answer questions about it. Or have it watch a YT video for which there's not transcription (JRE 2237) and have it answer questions about it. Or have AI read a datasheet and write a driver for it!",
+            "name": "@bennguyen1313",
+            "number of comment": "6 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "Hey man thanks for all your efforts, it. Helps alot to me specially for finding the new way/updates on pakages/framework for coding. Lots of Love from india Arunachal Pradesh",
+            "name": "@Peakcoder",
+            "number of comment": "9 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "Hey, thanks for the work. I used Gemini for the Wikipedia images with the tag JPG URLs, it took all images, svg, png included. It would be nice to actually allow for a prompt, so it can format the URLs like remove 'thumbnail/' string, and the part right to the last / of the URL. Basically condition or post process the output so you save tokens elsewhere.",
+            "name": "@suupaauozaden3463",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "why not added the part number? i m directly watcing the last part.",
+            "name": "@VaibhavShewale",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "Great Job. Please record a video that how can we deploy this app in Azure cloud?",
+            "name": "@pejdaniel-l2o",
+            "number of comment": "9 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "What could be causing this error? \"ValueError: The provided formatted data is a string but not valid JSON.\" I'm scraping Facebook Marketplace listings in my Marketplace feed (using attended mode, with Gemini 1.5 Flash). It seems to be working fine until it gets to this point. I also get this other error sometimes: \"AttributeError: Unknown field for Candidate: finish_message. Did you mean: 'finish_reason'?\". I think it has something to do with Gemini's safety settings? If that's the case, is there any way to set Gemini's five safety categories to \"Block none\"?. This might help Gemini to avoid errors in scraping due to false positives.",
+            "name": "@Lazbel",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        },
+        {
+            "comment": "Hey Reda, Really nice Video! Is it also possible to read the data of potential leads from the imprint or other subpages if mannbar has the main URL and not the exact subpage? Or is there a better way? Best regards Dennis",
+            "name": "@DennisDrzosga-xr9ny",
+            "number of comment": "9 months ago",
+            "number of like": ""
+        },
+        {
+            "comment": "Add claude computer use to attended mode to make that part automated",
+            "name": "@tylertheeverlasting",
+            "number of comment": "9 months ago",
+            "number of like": "1"
+        }
+    ]
+}
