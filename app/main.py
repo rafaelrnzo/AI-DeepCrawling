@@ -49,12 +49,12 @@ def gemini_request(prompt: str) -> str:
         return f"Error: {str(e)}"
 
 
-async def crawl_and_analyze(url: str):
+async def crawl_and_analyze(url: str, depth: int, pages: int):
     config = CrawlerRunConfig(
         deep_crawl_strategy=BFSDeepCrawlStrategy(
-            max_depth=2,
+            max_depth=depth,
             include_external=False,
-            max_pages=5
+            max_pages=pages
         ),
         verbose=True
     )
@@ -75,7 +75,7 @@ async def crawl_and_analyze(url: str):
                     "summary": summary
                 })
 
-        # gabungkan semua summary jadi 1
+        # Combine all summaries into one
         combined_text = "\n\n".join([s["summary"] for s in all_summaries])
         final_summary = gemini_request(
             f"Create a concise overall summary of these page summaries:\n\n{combined_text}"
@@ -88,9 +88,13 @@ async def crawl_and_analyze(url: str):
 
 
 @app.get("/crawl")
-async def crawl(url: str = Query(..., description="Target URL untuk crawling")):
+async def crawl(
+    url: str = Query(..., description="Target URL untuk crawling"),
+    depth: int = Query(2, description="Maximum depth untuk crawling"),
+    pages: int = Query(5, description="Maximum number of pages untuk crawling")
+):
     try:
-        result = await crawl_and_analyze(url)
+        result = await crawl_and_analyze(url, depth, pages)
         return JSONResponse(content=result, status_code=200)
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=500)
